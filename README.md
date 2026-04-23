@@ -3,6 +3,7 @@
  ![Python Version](https://img.shields.io/badge/python-3.10%2B-0055f9?labelColor=FFF80C&logo=python) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-A42E2B?labelColor=333333&logo=gnu&logoColor=FCC624)](LICENSE) ![Linux](https://img.shields.io/badge/Kernel-Linux-ffd133?labelColor=333333&logo=linux&logoColor=FCC624)
 
 
+
 > **Automated TTS generator for Anki flashcards powered by CSV data.**
 
 
@@ -43,15 +44,24 @@
     - Files are stored in the `out_storage` folder
 
 
-* ## Contributor
-    ```text
-    ╔═══════════════════════════════════════════════════════╗
-    ║ Copyright (C) 2025                                    ║
-    ║ Published on GitHub under Caminodelaserpiente         ║
-    ║ https://github.com/caminodelaserpiente                ║
-    ║                                                       ║
-    ║     caminodelaserpiente.py@gmail.com                  ║
-    ║                                                       ║
-    ║                                                       ║
-    ╚═══════════════════════════════════════════════════════╝
-    ```
+```text
+╔══════════════════════════════╗
+║                      .........                   ║
+║                  ............... .               ║
+║                ........    ....    .             ║
+║              ..........    ....     .            ║
+║             ..................       .           ║
+║            ................ .         .          ║
+║            ........... .              .          ║
+║             ........                 .           ║
+║              ......    ....         .            ║
+║                ....    ....       .              ║
+║                  . .           . .               ║
+║                      . . . . .                   ║
+║ Copyright (C) 2025                               ║
+║ Published on GitHub powered by:                  ║
+║ Caminodelaserpiente                              ║
+║ https://github.com/caminodelaserpiente           ║
+║ caminodelaserpiente.py@gmail.com                 ║
+╚══════════════════════════════╝
+```
